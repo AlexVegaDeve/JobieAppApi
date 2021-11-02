@@ -21,3 +21,4 @@ artifacts:
   - controllers/**/*
   - models/**/*
   - routes/**/*
+  - utilities/**/*
